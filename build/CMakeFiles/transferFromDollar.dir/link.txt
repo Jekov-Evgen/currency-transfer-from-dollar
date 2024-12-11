@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\transferFromDollar.dir/objects.a
+C:\w64devkit\bin\ar.exe qc CMakeFiles\transferFromDollar.dir/objects.a @CMakeFiles\transferFromDollar.dir\objects1.rsp
+C:\w64devkit\bin\c++.exe -Wl,--whole-archive CMakeFiles\transferFromDollar.dir/objects.a -Wl,--no-whole-archive -o transferFromDollar.exe -Wl,--out-implib,libtransferFromDollar.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\transferFromDollar.dir\linkLibs.rsp

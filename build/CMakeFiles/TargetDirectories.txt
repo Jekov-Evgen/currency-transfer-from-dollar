@@ -1,0 +1,3 @@
+C:/C++/transferFromDollar/build/CMakeFiles/transferFromDollar.dir
+C:/C++/transferFromDollar/build/CMakeFiles/edit_cache.dir
+C:/C++/transferFromDollar/build/CMakeFiles/rebuild_cache.dir
